@@ -92,12 +92,8 @@ Explore the app's features:
 *Note:* Backend integration for real data, user accounts, and transactions is planned for upcoming versions.
 
 ## Screenshots
-Login page :
-<img width="1480" height="2800" alt="Screenshot_2024-12-05-11-42-38-11_0d19d4d69b8e9eab39e1852606762587-portrait" src="https://github.com/user-attachments/assets/ab0f62bf-822b-4b7f-a939-490c6983ef70" />
-<img width="1480" height="2800" alt="Screenshot_2024-12-05-11-42-50-29_0d19d4d69b8e9eab39e1852606762587-portrait" src="https://github.com/user-attachments/assets/69913646-31a4-4038-90df-11aec2179be9" />
-<img width="1480" height="2800" alt="Screenshot_2024-12-05-11-42-54-35_0d19d4d69b8e9eab39e1852606762587-portrait" src="https://github.com/user-attachments/assets/c6c97f20-8f7b-4f4a-88bf-7a632a0e62a3" />
-<img width="1480" height="2800" alt="Screenshot_2024-12-05-11-43-01-11_0d19d4d69b8e9eab39e1852606762587-portrait" src="https://github.com/user-attachments/assets/64b7739c-e983-4885-a781-34540fb5b444" />
-<img width="1480" height="2800" alt="Screenshot_2024-12-05-11-43-04-80_0d19d4d69b8e9eab39e1852606762587-portrait" src="https://github.com/user-attachments/assets/3c8f98d1-060a-46a2-90b6-08b708cf62a1" />
+🔐 Login Page
+<div align="center"> <img src="https://github.com/user-attachments/assets/ab0f62bf-822b-4b7f-a939-490c6983ef70" width="200" /> <img src="https://github.com/user-attachments/assets/69913646-31a4-4038-90df-11aec2179be9" width="200" /> <img src="https://github.com/user-attachments/assets/c6c97f20-8f7b-4f4a-88bf-7a632a0e62a3" width="200" /> <img src="https://github.com/user-attachments/assets/64b7739c-e983-4885-a781-34540fb5b444" width="200" /> <img src="https://github.com/user-attachments/assets/3c8f98d1-060a-46a2-90b6-08b708cf62a1" width="200" /> </div>
 Selling items : 
 <img width="1480" height="2800" alt="Screenshot_2024-12-05-11-35-52-12_0d19d4d69b8e9eab39e1852606762587-portrait" src="https://github.com/user-attachments/assets/c45ca72f-ae97-4205-b569-551427f30269" />
 <img width="1480" height="2800" alt="Screenshot_2024-12-05-11-43-17-70_0d19d4d69b8e9eab39e1852606762587-portrait" src="https://github.com/user-attachments/assets/a811b012-4f41-49c1-a6d0-624944725b9e" />
