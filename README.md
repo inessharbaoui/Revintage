@@ -1,4 +1,4 @@
-# Revintage - Flutter Frontend
+# Revintage
 
 A sleek Flutter mobile app frontend that brings vintage items to life by buying and selling unique treasures. This repository contains the app's user interface and client-side logic — backend services are planned for future development.
 
